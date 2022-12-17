@@ -11,4 +11,6 @@ Integrates into a DIN Rail/Pelican Case setup to support [CANFuck](https://githu
 
 Built for the [Hammond 1597DIN2GY](https://www.hammfg.com/part/1597DIN2GY) Case
 
-# Work in progress. PCB is unvalidated
+# Work in progress. PCB connects to USB, but additional functionality is not yet tested
+![image](https://user-images.githubusercontent.com/63624195/208225443-edbb5299-bac2-46ba-9b6f-229035fbe1cb.png)
+
